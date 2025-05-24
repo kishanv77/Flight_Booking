@@ -1,0 +1,7 @@
+POST /add_flight
+{
+  "origin": "New York",
+  "destination": "Los Angeles",
+  "departure_time": "2025-06-01 15:00",
+  "seats_available": 50
+}

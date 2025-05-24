@@ -1,0 +1,5 @@
+POST /book
+{
+  "passenger_name": "Alice Johnson",
+  "flight_id": 1
+}
